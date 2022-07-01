@@ -93,14 +93,14 @@
 
 //Qst 5
 
-let n=5;
-let count =0;
-let star = "";
-for(let i=0; i<n; i++) {
-    for(let j=0; j<n; j++) {
-        star = star + `${count}`;
-        count++;
-    }
-    star += "\n";
-}
-console.log(star)
+// let n=5;
+// let count =0;
+// let star = "";
+// for(let i=0; i<n; i++) {
+//     for(let j=0; j<n; j++) {
+//         star = star + `${count}`;
+//         count++;
+//     }
+//     star += "\n";
+// }
+// console.log(star);
