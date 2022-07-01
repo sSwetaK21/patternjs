@@ -1,21 +1,32 @@
 //  Qst 1
 
-let num =5;
-let star ="";
-for(let i=1; i<=num; i++){
-    // star = " ";
-    for(let j=1; j<=num; j++){
-        if(i==j || i+j == num+1){
-            star += "*";
+// let num =5;
+// let star ="";
+// for(let i=1; i<=num; i++){
+//     // star = " ";
+//     for(let j=1; j<=num; j++){
+//         if(i==j || i+j == num+1){
+//             star += "*";
         
-        } else{
-            star += " ";
-        }
+//         } else{
+//             star += " ";
+//         }
+//     }
+//     star += "\n";
+// }
+
+// console.log(star);
+
+
+// qst 2
+
+let n=5;
+for(let i =1; i<=n; i++){
+    for(let j=1; j<=n; j++){
+        
     }
-    star += "\n";
 }
 
-console.log(star);
 
 
 // Qst 3
